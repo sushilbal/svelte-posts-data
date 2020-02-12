@@ -1,5 +1,8 @@
 *Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
+
+This is a example project completed from https://www.youtube.com/watch?v=vhGiGqZ78Rs&t=521s 
+My first SvelteJS project
 ---
 
 # svelte app
